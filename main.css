@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+#but {
+    font-family:Rubik,Arial, sans-serif;
+    width: 60%;
+    font-size: 400%;
+    background-color: khaki;
+    color:indianred;
+    border-radius: 15%;
+    text-align: center;
+    margin: auto;
+}
